@@ -1,6 +1,6 @@
 # Exercices Canvas
 
-## Exercice 1 
+## Exercice 1
 
 Reproduire la maison
 
